@@ -42,10 +42,6 @@ It is not allowed to publish the data provided by Arvato Financial Services.
 -   **Daisy Dai** 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md]LICENSE.md file for details.
-
 ## Acknowledgments
 
 I would like to thank [Udacity](https://eu.udacity.com/) for this amazing project, and [Arvato](https://www.arvato.com/)  for providing the data.
